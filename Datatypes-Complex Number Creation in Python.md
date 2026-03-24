@@ -36,6 +36,7 @@ print(x.imag)
 
 Output
 
+<img width="434" height="332" alt="530275674-23a37753-5fb6-428d-8b18-7da4a34ea7d5" src="https://github.com/user-attachments/assets/b4de42f1-7429-4ff7-9864-d39aac456027" />
 
 
 Result:
