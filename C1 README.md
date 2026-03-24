@@ -147,6 +147,8 @@ OUTPUT:
 RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
 
+
+
 EX-05- Calculating Total, Percentage, And Division Using Conditional Statements
 
 
