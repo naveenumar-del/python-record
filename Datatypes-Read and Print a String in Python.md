@@ -9,6 +9,7 @@ Algorithm:
 Assign a variable named men_stepped_on_the_moon.
 Use input() to read a string from the user and store it in the variable.
 Print the value stored in the variable.
+
 Program:
 
 men_stepped_on_the_moon=input()
